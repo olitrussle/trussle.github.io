@@ -1,0 +1,21 @@
+.site-header {
+  @extend %vertical-rhythm;
+
+  text-align: center;
+  margin-top: ($spacing-unit / 2);
+}
+
+.top-links {
+  @extend %vertical-rhythm;
+
+  text-transform: uppercase;
+  font-weight: $strong-font-weight;
+  letter-spacing: 1px;
+
+  border-bottom: 1px solid $border-color;
+  padding-bottom: ($spacing-unit / 2);
+
+  a {
+    margin: 0 ($spacing-unit / 2);
+  }
+}

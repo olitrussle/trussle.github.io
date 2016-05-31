@@ -2,14 +2,13 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+        <span class="footer-site-name">{{ site.title }}</span>
+        <span class="footer-company-name">Trussle Lab Ltd</span>
+        <span class="footer-address">23 Tileyard Studios, Tileyard Road, London, N7 9AH</span>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -25,11 +24,9 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-        </ul>
-      </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
       </div>
     </div>
 

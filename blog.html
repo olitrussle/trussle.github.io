@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1>Blog</h1>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>
+
+<p class="rss-subscribe">Like our stuff? <a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a> or <a href="http://twitter.com/hellotrussle">follow us on Twitter!</a></p>

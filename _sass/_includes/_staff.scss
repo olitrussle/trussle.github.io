@@ -1,0 +1,11 @@
+.staff {
+  @extend %vertical-rhythm;
+  text-align: center;
+
+  .profile {
+    display: inline-block;
+    margin: ($spacing-unit / 4);
+    border-radius: ($spacing-unit / 8);
+    border: 1px solid $border-color;
+  }
+}

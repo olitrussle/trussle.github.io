@@ -1,0 +1,11 @@
+.intro {
+  @extend %vertical-rhythm;
+
+  text-align: center;
+
+  border: 1px solid $border-color;
+  border-radius: ($spacing-unit / 4);
+
+  padding: $spacing-unit $spacing-unit ($spacing-unit / 2) $spacing-unit;
+
+}

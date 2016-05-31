@@ -1,0 +1,73 @@
+/**
+ * Posts
+ */
+ h1, .post-header {
+    text-align: center;
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media-query($on-laptop) {
+        font-size: 36px;
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+
+    .aside {
+        float: right;
+        max-width: 200px;
+
+        margin: 0 0 ($spacing-unit / 2) ($spacing-unit / 2);
+
+        border-radius: ($spacing-unit / 8);
+        border: 1px solid $border-color;
+
+        @include media-query($on-palm) {
+            float: none;
+            display: block;
+            margin: 0 auto ($spacing-unit / 2) auto;
+        }
+    }
+
+    hr {
+        clear: both;
+        border: 1px solid $border-color;
+
+        // We'd prefer to do a margin either side,
+        // but the margin isn't appreciated by
+        // float'ed elements.
+        position: relative;
+        top: ($spacing-unit);
+        margin: 0 0 ($spacing-unit * 2) 0;
+    }
+}
