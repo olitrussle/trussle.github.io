@@ -1,0 +1,14 @@
+// Global print settings
+
+@media print {
+  p {
+    page-break-inside: avoid;
+  }
+
+  // Make sure we don't spill over into a new page
+  // if we don't have to.
+  footer {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+}

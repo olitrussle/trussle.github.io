@@ -3,6 +3,12 @@
 
   text-align: center;
   margin-top: ($spacing-unit / 2);
+
+  @media print {
+    float: right;
+    max-width: 33%;
+    margin: 0;
+  }
 }
 
 .top-links {
@@ -17,5 +23,9 @@
 
   a {
     margin: 0 ($spacing-unit / 2);
+  }
+
+  @media print {
+    display: none;
   }
 }
