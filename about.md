@@ -44,7 +44,7 @@ In his spare time Pete can be found in the gym, running, playing golf or watchin
 
 The other Jonny has been working on software since 2013 when he realised a significant amount of his day to day work at the time could be rendered obsolete if he did so. He has been attempting to make his job obsolete ever since. Jonny can often be found evangelising [lodash](https://lodash.com/) and finding synonyms for words like 'rule'*. He is also in charge of the Ocado orders for some reason.
 
-Jonny spends most of his free time buying records, listening to music and making  music with unnecessarily levels of bass.
+Jonny spends most of his free time buying records, listening to music and making  music with unnecessary levels of bass.
 
 *(\*He went with stipulation.)*
 

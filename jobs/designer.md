@@ -14,7 +14,7 @@ We want to be the market leader, and we think delivering an amazing user experie
 
 You will obsess about the customer, making sure the business is driven by user need. Your curiosity to experiment with interfaces and behaviour will make us a unique service. And your knowledge of UI/UX principles, web design and design tools will provide clever solutions to difficult problems.
 
-We don't want someone who hides away and churns out pixel-perfect designs on their own - we don't think it works. We need a collaborator who takes the initiative, talking mortgage advisers and users to figure out what needs to be done and prototyping creative but feasible solutions. We need a great communicator, sharing their ideas with our software engineers in an efficient way and supporting them as they build.
+We don't want someone who hides away and churns out pixel-perfect designs on their own - we don't think it works. We need a collaborator who takes the initiative, talking to mortgage advisers and users to figure out what needs to be done and prototyping creative but feasible solutions. We need a great communicator, sharing their ideas with our software engineers in an efficient way and supporting them as they build.
 
 ---
 

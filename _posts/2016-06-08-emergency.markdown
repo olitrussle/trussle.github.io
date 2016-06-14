@@ -12,7 +12,7 @@ That's the problem we faced quite recently. The Way We Did Things Before™ is t
 This had a few issues:
 
 - The whole development team was interrupted for any issue, to figure out who should look at it.
-- Experts are a dangerous thing: they mean that parts of the system were only understood by a sinlge person in the team. If they were to be hit with an industry-standard bus, we'd lose any knowledge of the system. The Way We Did Things Before™ made this isolation worse.
+- Experts are a dangerous thing: they mean that parts of the system were only understood by a single person in the team. If they were to be hit with an industry-standard bus, we'd lose any knowledge of the system. The Way We Did Things Before™ made this isolation worse.
 
 At one of our retrospectives we decided we needed to change this. So we did what any reasonable company would do: we bought a stuffed cat-unicorn hybrid.
 
@@ -30,7 +30,7 @@ One things we forgot to do initially was define what an emergency *was*. This le
 
 > An emergency is a technical issue of an existing feature that is stopping our customers or team doing what they want to do.
 
-This works for us - anything that isn't an issue gets put into our product development pipeline.
+This works for us - anything that isn't an emergency gets put into our product development pipeline.
 
 ---
 
