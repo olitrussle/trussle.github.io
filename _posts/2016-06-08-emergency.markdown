@@ -34,4 +34,4 @@ This works for us - anything that isn't an emergency gets put into our product d
 
 ---
 
-So there we go: all you need to do support in a small team is get a unicorn-cat and throw it around a bit. Any questions? [Let us know on Twitter.](http://twitter.com/HelloTrussle)
+So there we go: all you need to do support in a small team is get a unicorn-cat and throw it around a bit. Any questions? [Let us know on Twitter.](http://twitter.com/TrussleTech)

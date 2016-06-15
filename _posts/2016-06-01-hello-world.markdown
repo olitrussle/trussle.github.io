@@ -11,6 +11,6 @@ We thought we needed a website for us to talk about software, technology and oth
 
 We're just starting to release some of our cool tools as open source software. When we do, it'll be on [our Github page](https://github.com/trussle), and we'll announce it here as well.
 
-If you want to get to know us, check out our [team profiles](/about). Better still, send us a message [on Twitter](https://twitter.com/HelloTrussle).
+If you want to get to know us, check out our [team profiles](/about). Better still, send us a message [on Twitter](https://twitter.com/TrussleTech).
 
 We hope you like it!

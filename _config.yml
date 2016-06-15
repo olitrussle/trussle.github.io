@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Trussle Product Development build stuff for Trussle, a new kind of mortgage adviser.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://trussle.github.io" # the base hostname & protocol for your site
-twitter_username: hellotrussle
+twitter_username: TrussleTech
 github_username:  trussle
 
 # Build settings
