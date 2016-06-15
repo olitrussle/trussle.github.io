@@ -28,7 +28,7 @@ The team is based around a few key principles:
 
 Pete (or Jonny for short) has been working in software since 2008 ever since he got tired of his part-time Network Admin job and realised he could automate it away. Pete can be often found preaching about clean code and [SOLID design principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design), repeating himself constantly as nobody can understand his Irish accent. Pete also has Spotify Premium so he handles the audio for the team playlist.
 
-In his spare time Pete can be found in the gym, running, playing golf or watching people beating each other inside an octagon. He is also partial to the odd pint of Guinness to keep up the stereotype up.
+In his spare time Pete can be found in the gym, running, playing golf or watching people beating each other inside an octagon. He is also partial to the odd pint of Guinness to keep up the stereotype.
 
 ---
 
