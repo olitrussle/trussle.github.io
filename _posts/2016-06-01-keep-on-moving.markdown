@@ -15,9 +15,7 @@ Probably the biggest reason migration has been so easy is that we tend to use [l
 
 ```
 var self = this;
-self.exaggerate = function(str) {
-  return str + '!'
-};
+self.exaggerate = str => str + '!';
 var statements = ['cool', 'no worries', 'sure'];
 var exaggeratedSentences = _.map(statements, function(st) {
     return self.exaggerate(st);
