@@ -4,7 +4,7 @@ title: Software Engineer
 permalink: /jobs/developer
 ---
 
-**Trussle is a company with big ambitions.** We're only small, but you might have heard about us in The Telegraph, The Financial Times or on the BBC. [We've secured over £1.2M of investment](http://techcrunch.com/2016/02/06/trussle/) and signed a long-term partnership with [Zoopla](http://www.zpg.co.uk/media/news-releases/zoopla-property-group-invests-leading-uk-proptech-start-ups). Our plans are even bigger. You can find out more about us at [trussle.com](trussle.com).
+**Trussle is a company with big ambitions.** We're only small, but you might have heard about us in The Telegraph, The Financial Times or on the BBC. [We've secured over £1.2M of investment](http://techcrunch.com/2016/02/06/trussle/) and signed a long-term partnership with [Zoopla](http://www.zpg.co.uk/media/news-releases/zoopla-property-group-invests-leading-uk-proptech-start-ups). Our plans are even bigger. You can find out more about us at [trussle.com](https://trussle.com).
 
 Trussle is built on software; if we weren't, we'd just be another mortgage broker. We're using software and clever thinking to tackle the hard problems in our field. How do you simplify a process as complicated as getting a mortgage? What happens when banks *don't* have APIs? And how do you build a personal service that scales to thousands of applicants per day?
 

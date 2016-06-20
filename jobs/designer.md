@@ -4,7 +4,7 @@ title: Lead UI/UX Designer
 permalink: /jobs/designer
 ---
 
-**Trussle is a company with big ambitions.** We're only small, but you might have heard about us in The Telegraph, The Financial Times or on the BBC. [We've secured over £1.2M of investment](http://techcrunch.com/2016/02/06/trussle/) and signed a long-term partnership with [Zoopla](http://www.zpg.co.uk/media/news-releases/zoopla-property-group-invests-leading-uk-proptech-start-ups). Our plans are even bigger. You can find out more about us at [trussle.com](trussle.com).
+**Trussle is a company with big ambitions.** We're only small, but you might have heard about us in The Telegraph, The Financial Times or on the BBC. [We've secured over £1.2M of investment](http://techcrunch.com/2016/02/06/trussle/) and signed a long-term partnership with [Zoopla](http://www.zpg.co.uk/media/news-releases/zoopla-property-group-invests-leading-uk-proptech-start-ups). Our plans are even bigger. You can find out more about us at [trussle.com](https://trussle.com).
 
 We want to be the market leader, and we think delivering an amazing user experience is how we will do it. Our website needs to be beautiful, smooth and easy to understand. We need to supply the right information at the right time. And we need to provide an experience that our users will tell their friends about. We think companies like [Oscar](https://www.hioscar.com/), [AirBnB](https://www.airbnb.co.uk/) and [Transferwise](https://transferwise.com/) are doing it right, and we want to be like them.
 
