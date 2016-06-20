@@ -47,7 +47,7 @@ We decided to create a set of tests called _lids_. These run through our source 
 ![Delicious error](/images/keep-moving/error.png)
 
 
-Is the plural of var _vars_ or _var_?
+*Is the plural of var _vars_ or _var_?
 
 
 # Worthwhile?
@@ -61,7 +61,7 @@ This was quick to implement, the majority of the work being on file navigation. 
 
 We originally made a rule that if you touched a file, you were responsible for refactoring it. Unfortunately this tended to create some HUGE pull requests and be incredibly unfair for anyone who had a task that made minor changes to multiple files. Now we tend to refactor one or two files per pull request. It doesn't muddy up the original intent of the PR and is still progress.
 
-## 🍲 Takeaways 
+## 🍲 Takeaways
 
 If you wanted our approach to this summed up in 3 lines.
 
