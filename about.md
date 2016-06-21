@@ -4,17 +4,17 @@ title: About Us
 permalink: /about/
 ---
 
-**Hello and dia dhuit!** We're the Trussle Product Development Team. We make stuff for [Trussle](https://trussle.com/), a mortgage adviser that wants to change the way you get a mortgage for the better.
+**Hello and dia dhuit!** We're the Trussle Product Development Team. We make stuff for [Trussle](https://trussle.com/), the new hassle-free way to find and secure a mortgage online.
 
-## What We Like
+## What we like
 
-The team is based around a few key principles:
+The team's based around a few key principles:
 
-- **What we make must work.** This seems pretty obvious, but it's easy to make a mistake. We make sure we are making what the user wants, and we double-check our work by showing it to the rest of the team, even when it's still in progress.
+- **What we make must work.** This seems pretty obvious, but it's easy to make a mistake. We make sure we're making what the user wants, and we double-check our work by showing it to the rest of the team even when it's still in progress.
 - **What we make must be easy to change in the future.** Strong software design principles and constant refactoring help us achieve this.
-- **We must improve.** Technology moves fast: if we don't, we'll get left behind. We regularly reflect on whether our process is the best it can be, and take steps to improve it.
+- **We must improve.** Technology moves fast: if we don't keep up, we'll get left behind. We regularly reflect on whether our process is the best it can be and take steps to improve it.
 
-## Meet the Team
+## Meet the team
 
 <img class="aside" src="/images/team/pete.jpg" />
 
@@ -26,9 +26,9 @@ The team is based around a few key principles:
     <li>{% include icon-linkedin.html username="peter-daly-b194ab17" %}</li>
 </ul>
 
-Pete (or Jonny for short) has been working in software since 2008 ever since he got tired of his part-time Network Admin job and realised he could automate it away. Pete can be often found preaching about clean code and [SOLID design principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design), repeating himself constantly as nobody can understand his Irish accent. Pete also has Spotify Premium so he handles the audio for the team playlist.
+Pete (or Jonny for short) has been working in software since 2008, when he became tired of his part-time Network Admin job and realised he could automate it away. Pete can be often found preaching about clean code and [SOLID design principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design), repeating himself constantly as nobody can understand his Irish accent. Pete also has Spotify Premium so he handles the audio for the team playlist.
 
-In his spare time Pete can be found in the gym, running, playing golf or watching people beating each other inside an octagon. He is also partial to the odd pint of Guinness to keep up the stereotype.
+In his spare time Pete can be found in the gym, running, playing golf or watching people beating each other inside an octagon. He's also partial to the odd pint of Guinness to keep up the stereotype.
 
 ---
 
@@ -42,9 +42,9 @@ In his spare time Pete can be found in the gym, running, playing golf or watchin
     <li>{% include icon-linkedin.html username="jonny-wildey-1b928481" %}</li>
 </ul>
 
-The other Jonny has been working on software since 2013 when he realised a significant amount of his day to day work at the time could be rendered obsolete if he did so. He has been attempting to make his job obsolete ever since. Jonny can often be found evangelising [lodash](https://lodash.com/) and finding synonyms for words like 'rule'*. He is also in charge of the Ocado orders for some reason.
+The other Jonny has worked on software since 2013, when he realised that by doing so he could render a significant amount of his day-to-day work obsolete. He's been attempting to make his job obsolete ever since. Jonny can often be found evangelising [lodash](https://lodash.com/) and finding synonyms for words like 'rule'*. He's also in charge of our Ocado orders for some reason.
 
-Jonny spends most of his free time buying records, listening to music and making  music with unnecessary levels of bass.
+Jonny spends most of his free time buying records, listening to music and making music with unnecessary levels of bass.
 
 *(\*He went with stipulation.)*
 
@@ -60,9 +60,9 @@ Jonny spends most of his free time buying records, listening to music and making
     <li>{% include icon-linkedin.html username="zfeltham" %}</li>
 </ul>
 
-As a young girl, Zoe wanted to be a teacher as she's always liked bossing people around. However, as she grew older, she realised she didn't really like children much, so became a Product Manager so she could tell adults what to do instead. Zoe has been working with tech products since 2008 and finally realised Product Management was the perfect mix of bossiness and creativity in 2011. Since then, she's mostly used her powers for evil, and is now trying to atone for her sins by making mortgages hassle free.
+As a young girl, Zoe wanted to be a teacher as she's always liked bossing people around. However, as she grew older she realised she didn't really like children much, so became a Product Manager so she could tell adults what to do instead. Zoe has been working with tech products since 2008 and finally realised Product Management was the perfect mix of bossiness and creativity in 2011. Since then, she's mostly used her powers for evil, and is now trying to atone for her sins by making mortgages hassle-free.
 
-When she's not producting, she can be found inventing words, singing in a 400 strong indie choir and going on as many holidays as she can squeeze into a year.
+When she's not producting, she can be found inventing words, singing in a 400-strong indie choir, and going on as many holidays as she can squeeze into a year.
 
 ---
 
@@ -80,9 +80,9 @@ When she's not producting, she can be found inventing words, singing in a 400 st
 
 Since the age of 10 Jonny has been staring at computers and trying to make them do what he tells them. Jonny can often be found ranting in a weakly Northern accent about code quality, company culture or [the Agile Manifesto](http://agilemanifesto.org).
 
-Jonny has been a software engineer since 2011. After working as a scientific software consultant and a web developer for a ratings and review company, Jonny finally saw sense and settled down into the warm and inviting world of mortgage advice start-ups.
+Jonny has been a software engineer since 2011. After working as a scientific software consultant and a web developer for a ratings and review company, Jonny finally saw sense and settled down into the warm and inviting world of mortgage startups.
 
-Oddly, Jonny spends a lot of time programming *outside* of work, in a move that has disappointed loved ones. He is also studying Japanese, attending programming outreach events and presenting radio shows, although usually not at the same time.
+Oddly, Jonny spends a lot of time programming *outside* of work, in a move that has disappointed loved ones. He's also studying Japanese, attending programming outreach events and presenting radio shows, although usually not at the same time.
 
 ---
 
