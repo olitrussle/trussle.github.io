@@ -1,0 +1,106 @@
+---
+layout: post
+title:  Learning to love ESLint
+date:   2016-06-22 09:00:00 +0100
+author: Jonny Arnold
+---
+
+Big news, folks: we have an open source project! Now you can lint code like us using [eslint-config-trussle](https://github.com/trussle/eslint-config-trussle) on NPM. Exciting times!
+
+In this post I want to explain:
+
+- Why linting is important
+- Why we changed from JSHint to ESLint
+- What issues we found along the way
+
+## Linting Matters
+
+Javascript allows you to do some cool stuff, [not all of it good.](http://jswtf.tumblr.com/) While some Javascript may be syntactically correct, it may be difficult to read or easily misinterpreted. Even more important, linters can do the checks that Javascript probably should have had from the start: for example, do you want to know when you try to use a variable that hasn't been declared?
+
+Linters are programs that analyse your code and makes sure that it adheres to a set of rules. Whilst your interpreter will check for syntax and even semantics, linters work at a higher level and warn of undeclared variables, readability issues or lacking documentation.
+
+Trussle had a linter from the early days: [JSHint](http://jshint.com/) is a very popular linter that certainly helps to write better Javascript. More recently, however, we've changed to [ESLint](http://eslint.org/).
+
+Why? Well on the face of it, JSHint and ESLint are almost identical: they function almost identically and their rule sets intersect strongly. However, on closer examination [the ESLint rule set](http://eslint.org/docs/rules/) is almost a superset of [the JSHint rule set](http://jshint.com/docs/options/); we can use all of our JSHint rules and more if we switch to ESLint.
+
+So we gave it a try! Two months in, most of our applications asre now using ESLint. So what do we like about it, and more importantly what do we think we can do to improve?
+
+## Keeping Consistent
+
+A big issue we faced in Trussle was that our JSHint configuration files were different between projects. This seemed odd to us - we thought our linter should provide a way for making our rules the same across our repositories.
+
+ESLint have really thought about this. They allow you to [extend existing configuration](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) by specifying a filename or package. (Note that JSHint allows you to do this too, but [it's not incredibly well documented](http://stackoverflow.com/questions/19537480/jshint-overwrite-single-jshintrc-option-for-whole-folder).)
+
+And that's why we've released [eslint-config-trussle](https://github.com/trussle/eslint-config-trussle): it's a package you can install with NPM and get our ESLint rules on your project quickly.
+
+#### Tip: Use Packages, Not Relative Requires!
+
+If you [look back at the early versions](https://github.com/trussle/eslint-config-trussle/commits/master) of eslint-config-trussle, you'll see that we tried to relatively require the package's files (`extends: "./node_modeules/eslint-config-trussle/eslintrc.js"`) rather than use the package format (`extends: "trussle"`). It turns out this is a problem if you install your ESLint'ed package in another NPM module, due to the flat nature of Node's `node_modules` folder. It's best illustrated like this:
+
+```
+parentPackage/              (npm install childPackage)
+  node_modules/
+    childPackage/
+      .eslintrc             (assumes eslint-config-trussle is in ./node_modules)
+    eslint-config-trussle/
+      .eslintrc             (it's actually here!)
+```
+
+Even though `node_modules` is ignored by ESLint, when it recurses through directories it still reads the file and gets confused because it can't find `eslint-config-trussle`.
+
+The moral of this story is to [use packages](http://eslint.org/docs/developer-guide/shareable-configs)!
+
+## ESLint'll `--fix` It
+
+The `--fix` flag is awesome. Instead of detecting errors for you and waiting for you to fix them, ESLint can auto-correct some errors for you! This is especially useful when you're adding ESLint to an existing repository: often you'll get thousands of errors, so having most fixed automatically is heavenly.
+
+We ran into only one problem with this: some of our files had a mix of tabs and spaces (I can see your frown from here), and after running `eslint --fix` we found them to look even worse. Luckily, this is one of those errors that can be fixed with [a little editor-fu](http://stackoverflow.com/questions/20675237/converting-spaces-to-tabs-in-multiple-files-sublime-text-2).
+
+## Nested Configuration
+
+Sometimes we want to change the rules a little bit: for example, we might want to relax the [no-magic-numbers](http://eslint.org/docs/rules/no-magic-numbers) rule for tests.
+
+ESLint makes this really easy by allowing you nest your configuration files; the configuration will then be built up hierarchically, with the deepest configuration file taking precedence. For example, in our test directory we can do this:
+
+```javascript
+module.exports = {
+  env: { 
+    mocha: true 
+  },
+
+  rules: {
+    "no-magic-numbers": ["off"]
+  }
+};
+```
+
+This turns out to be really useful, especially if you have a mix of front-end and back-end code in an application.
+
+## Documenting Your Choices
+
+ESLint has a [surprisingly large number of file formats](http://eslint.org/docs/user-guide/configuring#configuration-file-formats) it understands. We initially went for JSON (because JSHint uses JSON), but realised that swapping to a Javascript module would allow us to fix a big problem we had: documenting our choice of rules.
+
+[JSON doesn't allow comments.](http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file) There are ways to get comments into JSON, but they're not part of the standard. Javascript *does* allow comments, meaning we can document *why* we've modified a rule when the rule is defined:
+
+```javascript
+module.exports = {
+  "rules": {
+
+    // All numbers should have a name to ensure other people
+    // understand what they are for.
+    //
+    // We've ignored 1, because it can feature in incrementing
+    // and people know what it is.
+    //
+    // Magic numbers should be const'ed.
+    "no-magic-numbers": ["warn", { "ignore": [0, 1], "enforceConst": true }],
+
+  }
+};    
+```
+
+This is nicer to maintain: if, at some point, we decide we need extra numbers to be ignored, we can explain why! (We're mulling over whether we should add HTTP status codes. [What do you think?](http://twitter.com/TrussleTech))
+
+---
+
+We've been using ESLint for a while now and we're happy with it, but what about you? Is there something better out there? What do you think of [our rules](https://github.com/trussle/eslint-config-trussle)? Have you got any ESLint tips or tricks of your own? [Let us know on Twitter!](http://twitter.com/TrussleTech)
