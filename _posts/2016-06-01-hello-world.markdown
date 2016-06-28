@@ -5,7 +5,7 @@ date:   2016-06-01 09:00:00 +0100
 author: Jonny Arnold
 ---
 
-**Hello!** We're the Trussle Product Development Team. We make stuff for [Trussle](https://trussle.com/), a mortgage adviser that wants to change the way you get a mortgage for the better.
+**Hello!** We're the Trussle Product Development Team. We make stuff for [Trussle](https://trussle.com/), the new hassle-free way to find and secure a mortgage online.
 
 We thought we needed a website for us to talk about software, technology and other things we like. One or two afternoons later, here we are.
 
