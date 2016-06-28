@@ -52,7 +52,7 @@ We decided to create a set of tests called _lids_. These run through our source 
 
 # Worthwhile?
 
-This was quick to implement, the majority of the work being on file navigation. It's been surprisingly effective, with all of the developers being caught out every now and then. And it turns of ES6 adoption, view this unnecessary graph!
+This was quick to implement, the majority of the work being on file navigation. It's been surprisingly effective, with all of the developers being caught out every now and then. And in terms of ES6 adoption, view this unnecessary graph!
 
 ![Downward sloping graph](/images/keep-moving/useful-graph.png)
 
