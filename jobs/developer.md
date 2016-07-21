@@ -18,6 +18,6 @@ We're a [full-stack Javascript](http://stackshare.io/trussle/trussle) house at t
 
 ---
 
-**Interested?** Send us your CV and we'll ask you a few questions. After a chat on the phone, we'll bring you into the office and ask you to pair with us for a while and meet the rest of the team. And that's it - if we like what we see and you love what we're doing we'll ask you to join us. (See? We like things simple.)
+**Interested?** Send us a CV to [team@trussle.com](mailto:team@trussle.com) and let us know what interests you about Trussle. We'll ask you to complete a questionnaire and programming exercise in your own time. After that we'll bring you into the office to find out more about you, pair with us for a while and meet the rest of the team. And that's it - if we like what we see and you love what we're doing we'll ask you to join us.
 
 [**Apply now: team@trussle.com**](mailto:team@trussle.com)

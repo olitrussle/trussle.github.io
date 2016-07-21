@@ -18,6 +18,6 @@ We don't want someone who hides away and churns out pixel-perfect designs on the
 
 ---
 
-**Interested?** Send us your portfolio and let us know what makes you different from the rest. From there we'll bring you into the office to see how you work. And that's it - if we like what we see and you love what we're doing we'll ask you to join us. (See? We like things simple.)
+**Interested?** Send us your portfolio and let us know what makes you different from the rest. From there we'll bring you into the office to find out more about you and to answer your questions about Trussle. If we like what you stand for, we'll ask you to solve a design problem that we have at Trussle to see how you work. And that's it - if we like what we see and you love what we're doing we'll ask you to join us.
 
 [**Apply now: team@trussle.com**](mailto:team@trussle.com)
