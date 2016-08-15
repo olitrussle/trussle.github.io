@@ -8,7 +8,6 @@ Trussle is a fast-growing company with big ambitions. You might have heard about
 
 Here's what we're looking for right now:
 
-- **[Lead UI/UX Designer](/jobs/designer)**
 - **[Software Engineer](/jobs/developer)**
 
 We're always looking for enthusiastic people to join our team. If you don't fit into one of the above roles we'd still love to hear from you. Get in touch via our e-mail address: [team@trussle.com](mailto:team@trussle.com)
