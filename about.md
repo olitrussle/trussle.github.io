@@ -86,7 +86,7 @@ Oddly, Jonny spends a lot of time programming *outside* of work, in a move that 
 
 ---
 
-<img class="aside" src="/images/team/fred.jpg" />
+<img class="aside" src="/images/team/fred.png" />
 
 ### Fred Seale
 *Lead Designer; Pun Master General*
