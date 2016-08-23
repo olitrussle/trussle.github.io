@@ -86,6 +86,23 @@ Oddly, Jonny spends a lot of time programming *outside* of work, in a move that 
 
 ---
 
+<img class="aside" src="/images/team/fred.jpg" />
+
+### Fred Seale
+*Lead Designer; Pun Master General*
+
+<ul class="profile-links">
+    <li>{% include icon-linkedin.html username="fred-seale-a9352652" %}</li>
+</ul>
+
+Fred is a passionate designer, brimming with ideas and ever curious about all things design.
+
+Previously, Fred was Lead Designer at London start-up [Babylon Health](http://www.babylonhealth.com/) from its inception and helped to build the brand. As the only designer for over a year he designed everything, including the app and all the marketing material: print, website and videos.
+
+Outside of work, Fred plays American football and enjoys keeping fit, travelling, good coffee and visiting galleries.
+
+---
+
 <img class="aside" src="/images/team/pusheenicorn.jpg" />
 
 ### Pusheenicorn
