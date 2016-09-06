@@ -103,6 +103,24 @@ Outside of work, Fred plays American football and enjoys keeping fit, travelling
 
 ---
 
+<img class="aside" src="/images/team/ben.jpg" />
+
+### Ben Gladman
+*Software Engineer; Curry Chef*
+
+<ul class="profile-links">
+    <li>{% include icon-twitter.html username="BJGladman" %}</li>
+    <li>{% include icon-github.html username="BenGladman" %}</li>
+</ul>
+
+Ben first programmed on a [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) in his bedroom as a tweenager, creating some terribly designed games in CBM BASIC. 
+
+He took a few years out to study philosophy, and triumphantly entered the world of professional software development during the rise of the Spice Girls. He went on to work on some planning and financial applications for "enterprise" before escaping job stability and predictability by joining Trussle.
+
+Aside from the joys of coding, Ben loves cooking up spicy treats and wistfully strumming on a guitar.
+
+---
+
 <img class="aside" src="/images/team/pusheenicorn.jpg" />
 
 ### Pusheenicorn
