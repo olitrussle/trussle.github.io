@@ -16,6 +16,7 @@ The team's based around a few key principles:
 
 ## Meet the team
 
+<a name="pete" />
 <img class="aside" src="/images/team/pete.jpg" />
 
 ### Pete Daly
@@ -32,6 +33,7 @@ In his spare time Pete can be found in the gym, running, playing golf or watchin
 
 ---
 
+<a name="jonny-w" />
 <img class="aside" src="/images/team/jonny-w.jpg" />
 
 ### Jonny Wildey
@@ -50,6 +52,7 @@ Jonny spends most of his free time buying records, listening to music and making
 
 ---
 
+<a name="zoe" />
 <img class="aside" src="/images/team/zoe.jpg" />
 
 ### Zoe Feltham
@@ -66,6 +69,7 @@ When she's not producting, she can be found inventing words, singing in a 400-st
 
 ---
 
+<a name="jonny-a" />
 <img class="aside" src="/images/team/jonny-a.jpg" />
 
 ### Jonny Arnold
@@ -86,6 +90,7 @@ Oddly, Jonny spends a lot of time programming *outside* of work, in a move that 
 
 ---
 
+<a name="fred" />
 <img class="aside" src="/images/team/fred.png" />
 
 ### Fred Seale
@@ -103,6 +108,7 @@ Outside of work, Fred plays American football and enjoys keeping fit, travelling
 
 ---
 
+<a name="ben" />
 <img class="aside" src="/images/team/ben.jpg" />
 
 ### Ben Gladman
@@ -121,6 +127,7 @@ Aside from the joys of coding, Ben loves cooking up spicy treats and wistfully s
 
 ---
 
+<a name="pusheenicorn" />
 <img class="aside" src="/images/team/pusheenicorn.jpg" />
 
 ### Pusheenicorn
