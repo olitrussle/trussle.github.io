@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Elixir.LDN
+date:   2016-09-23 09:00:00 +0100
+author: Jonny Arnold
+---
+
+On 22nd September I went to [Elixir.LDN](http://www.elixir.london/), a conference for the programming language [Elixir](http://elixir-lang.org/). Elixir is a language I'd used to build a [Github pull request checker with the personality of Samuel L. Jackson](https://github.com/reevoo/samuel), so I was interested to see how the language had progressed and what the Elixir community is talking about.
+
+To make things interesting, I'll try and summarise each talk in 300 characters or less. Wish me luck...
+
+- [Robert Virding](https://twitter.com/rvirding), co-creator of Elixir, presented some pitfalls and curiosities of the Elixir language. It was accessible and useful to beginners like me. I wanted to know *why* Elixir's design makes better applications, but it wasn't really the talk's purpose.
+- [Marni Cohen](https://twitter.com/mosplaining) and Gabriella Chronis from [Puppet](https://puppet.com/) talked about rewrites of internal tools from [Ruby](https://www.ruby-lang.org/en/) to Elixir. The speakers were entertaining and informative, and the advantages they got were exciting to see.
+- [Louis Pilfold](https://twitter.com/louispilfold) (who I used to work with) gave a very dense but extremely interesting talk on building compilers in Elixir. It was confidently presented, and Elixir's libraries make it look easier to build compilers than in other languages.
+- [Gary Rennie](https://twitter.com/TheGazler) gave a talk on refactoring [Phoenix](http://www.phoenixframework.org/) applications. Gary was a fun presenter, and although the content wasn't revolutionary it's good to see good software design being valued and talked about at conferences.
+- [Tetiana Dushenkivska](https://twitter.com/tetiana12345678) showed how Elixir can work with [WebSockets](https://en.wikipedia.org/wiki/WebSocket) and [Arduino](https://www.arduino.cc/) by building a glove that checks your touch typing for incorrect finger use. The glove was awesome and the process of building it was well presented and easy to follow.
+- [Claudio Ortolina](https://twitter.com/cloud8421) presented a library in the making called [GenStage](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/), which makes building asynchronous multi-stage pipelines easier. I'm not sold on its usefulness, but the demo was interesting.
+- [Ju Liu](https://twitter.com/arkh4m) used Elixir to turn a [Raspberry Pi](https://www.raspberrypi.org/) into an "Intrusion Countermeasures" security system. He went from no code to a working demo in less than 45 minutes, which was very impressive! Ju is an exciting speaker to watch.
+- Consultant and podcaster [Johnny Winn](https://twitter.com/johnny_rugger) closed with a monologue on Elixir's past, present and future. Johnny is a confident and entertaining presenter. Summarising: "Elixir has a great community; treasure it as it grows, and ignore the haters outside of it."
+
+As well as the main talks, I found the lightning talks to also be of a high quality, showcasing some of the great things built with Elixir. All of these talks will hopefully end up on the [Elixir.LDN website](http://www.elixir.london/), and I'd encourage you to have a look at them if you're interested in what this language has to offer.
+
+---
+
+So after all that, will I be writing more Elixir in the future? It seems well-suited to solving common problems in web development where concurrent, distributed and fault-tolerant systems are required. The language itself looks easy to understand and - as the conference showed - there's a strong community around it building the tools necessary to make it successful. As a result, I'm likely to consider it for future web applications. (And maybe even a few pet projects with Arduinos and Raspberry Pis...)
+
+*What's your experience of Elixir in the wild: is it the next big thing or should it never be used? [Get in touch!](https://twitter.com/TrussleTech)*
