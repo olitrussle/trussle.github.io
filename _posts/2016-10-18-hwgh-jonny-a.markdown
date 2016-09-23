@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "How We Got Here - Jonny Arnold"
-date:   2016-09-16 09:00:00 +0100
+date:   2016-10-18 09:00:00 +0100
 author: Jonny Arnold
 ---
 
 *How We Got Here* is a series of posts from our Product Development team giving you a bit of history - how did we end up at Trussle, doing the job we're doing now?
 
-First up, it's Software Engineer Jonny Arnold...
+Today's subject is Software Engineer Jonny Arnold...
 
 ---
 
@@ -21,7 +21,7 @@ My first foray into web programming was also for a game. I had come up with the 
 
 The rest, as they say, is history. I made a bunch of websites for university societies when I should have been studying, and landed my first real software job just after I graduated. Not bad, given I had no formal training!
 
-One of the things I'd always fancied doing was joining a start-up: working in small teams has always been something I'd enjoyed and seen great results out of, so it seemed to make sense that a small company would work for me. I joined in March 2016 and I've had a great time since!
+One of the things I'd always fancied doing was joining a start-up: working in small teams has always been something I'd enjoyed and seen great results out of, so it seemed to make sense that a small company like Trussle would work for me. I joined in March 2016 and I've had a great time since!
 
 ---
 

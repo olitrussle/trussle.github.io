@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "How We Got Here - Ben Gladman"
+date:   2016-10-11 09:00:00 +0100
+author: Ben Gladman
+---
+
+*How We Got Here* is a series of posts from our Product Development team giving you a bit of history - how did we end up at Trussle, doing the job we're doing now?
+
+Today it's the turn of Software Engineer Ben Gladman to tell us a bit about his early days with computers...
+
+---
+
+Winter, 1980: Margaret Thatcher had been UK Prime Minister for a year and a half; John Lennon had been shot just a few days ago; John Bonham had also died recently and Led Zeppelin were no more. What could bring light and joy to our family? Of course! Dad buying a [Sinclair ZX80](https://en.wikipedia.org/wiki/ZX80) kit for Christmas. Christmas morning was spent soldering the components together. I watched from afar; I was too young to help. It was taking ages, but turkey dinner would need to wait, the new computer was too exciting to put off.
+
+Hours later... At last! The final assembly instruction completed, it was time for Dad to plug it into the mains and the TV. At first, fuzzy static on the telly, but after some tuning there it was: an empty screen with a small square at the bottom. The ZX80 was ready to take instruction! My brother had been reading the [BASIC](https://en.wikipedia.org/wiki/BASIC) manual all morning, and began typing cryptic messages on the keyboard: `10 PRINT "ENTER YOUR NAME"`. Our musical heroes may have passed away, but now we had a new – electronic – idol.
+
+Over several years and various Sinclair and [Commodore](https://en.wikipedia.org/wiki/Commodore_International) home computers, my interest continued: manually typing in long programs printed in magazines; creating my own programs in BASIC and [6502 assembly](https://en.wikibooks.org/wiki/6502_Assembly); buying tapes of shareware and demos from the local computer store; chatting on the early online community [Compunet](https://en.wikipedia.org/wiki/Compunet). What fun!
+
+---
+
+The Product Development team has their own [Twitter account](https://twitter.com/TrussleTech) for posting nerdy tidbits. Ben's just joined Twitter too; you can follow him (in a non-creepy way) [here](https://twitter.com/BJGladman).
