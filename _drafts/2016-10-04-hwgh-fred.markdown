@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "How We Got Here - Fred Seale"
-date:   2016-10-04 09:00:00 +0100
+title: How We Got Here - Fred Seale
+date: '2016-10-04 09:00:00 +0100'
 author: Fred Seale
+published: true
 ---
 
 *How We Got Here* is a series of posts from our Product Development team giving you a bit of history - how did we end up at Trussle, doing the job we're doing now?
 
-This article features our Lead Designer Fred Seale about he got from university to Trussle.
+This article features our Lead Designer Fred Seale, talking about he got from university to Trussle.
 
 ---
 
