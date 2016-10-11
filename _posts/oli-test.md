@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This is a brand new article. Yay!
 
